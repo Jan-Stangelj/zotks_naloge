@@ -9,7 +9,7 @@
     make -j 4
 
 ### Windows
-Kaj pa vem, cmake gui pol pa odpres v Visual Studiu
+Kaj pa vem, cmake gui pol pa odpres v Visual Studiu.
 
 ### MacOS
-Nimam pojma, v lajfu se 1 centa nisem dal Applu
+Nimam pojma, v lajfu se 1 centa nisem dal Applu.
