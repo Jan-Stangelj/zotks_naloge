@@ -1,7 +1,0 @@
-/home/jan/dev/zotks_naloge/build/CMakeFiles/naloga1.dir
-/home/jan/dev/zotks_naloge/build/CMakeFiles/naloga2.dir
-/home/jan/dev/zotks_naloge/build/CMakeFiles/naloga3.dir
-/home/jan/dev/zotks_naloge/build/CMakeFiles/naloga4.dir
-/home/jan/dev/zotks_naloge/build/CMakeFiles/naloga5.dir
-/home/jan/dev/zotks_naloge/build/CMakeFiles/edit_cache.dir
-/home/jan/dev/zotks_naloge/build/CMakeFiles/rebuild_cache.dir

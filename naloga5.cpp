@@ -6,6 +6,8 @@
 // ce zelite rezultat kot v primeru (stejejo samo pirat - OK vozlisce) odkomentirajte #define
 //#define PRIMER
 
+// + na prvi pogled je zgledala naloga ful tezka, ampak niti ni
+
 #ifdef PRIMER
     #define OPERACIJA !=
 #else

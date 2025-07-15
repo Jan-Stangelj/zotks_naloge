@@ -15,11 +15,13 @@ int main() {
 
     int odstranjeneCrke = 0;
 
+    // preveri ce je beseda palindrom brez odstranjenih crk
     if (beseda == besedaNazaj(beseda)) {
         std::cout << odstranjeneCrke << '\n';
         return 0;
     }
 
+    // odstranjuje crke dokler beseda ni palindrom
     while (true) {
         odstranjeneCrke++;
         beseda.pop_back();
