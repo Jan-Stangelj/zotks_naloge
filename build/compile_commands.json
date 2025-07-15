@@ -1,0 +1,32 @@
+[
+{
+  "directory": "/home/jan/dev/zotks_naloge/build",
+  "command": "/sbin/clang++ -g -o CMakeFiles/naloga1.dir/naloga1.cpp.o -c /home/jan/dev/zotks_naloge/naloga1.cpp",
+  "file": "/home/jan/dev/zotks_naloge/naloga1.cpp",
+  "output": "CMakeFiles/naloga1.dir/naloga1.cpp.o"
+},
+{
+  "directory": "/home/jan/dev/zotks_naloge/build",
+  "command": "/sbin/clang++ -g -o CMakeFiles/naloga2.dir/naloga2.cpp.o -c /home/jan/dev/zotks_naloge/naloga2.cpp",
+  "file": "/home/jan/dev/zotks_naloge/naloga2.cpp",
+  "output": "CMakeFiles/naloga2.dir/naloga2.cpp.o"
+},
+{
+  "directory": "/home/jan/dev/zotks_naloge/build",
+  "command": "/sbin/clang++ -g -o CMakeFiles/naloga3.dir/naloga3.cpp.o -c /home/jan/dev/zotks_naloge/naloga3.cpp",
+  "file": "/home/jan/dev/zotks_naloge/naloga3.cpp",
+  "output": "CMakeFiles/naloga3.dir/naloga3.cpp.o"
+},
+{
+  "directory": "/home/jan/dev/zotks_naloge/build",
+  "command": "/sbin/clang++ -g -o CMakeFiles/naloga4.dir/naloga4.cpp.o -c /home/jan/dev/zotks_naloge/naloga4.cpp",
+  "file": "/home/jan/dev/zotks_naloge/naloga4.cpp",
+  "output": "CMakeFiles/naloga4.dir/naloga4.cpp.o"
+},
+{
+  "directory": "/home/jan/dev/zotks_naloge/build",
+  "command": "/sbin/clang++ -g -o CMakeFiles/naloga5.dir/naloga5.cpp.o -c /home/jan/dev/zotks_naloge/naloga5.cpp",
+  "file": "/home/jan/dev/zotks_naloge/naloga5.cpp",
+  "output": "CMakeFiles/naloga5.dir/naloga5.cpp.o"
+}
+]

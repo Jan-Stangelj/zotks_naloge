@@ -1,0 +1,96 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "zotks_naloge",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "naloga1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-naloga1-Debug-7db286bcc690b3b198e5.json",
+					"name" : "naloga1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "naloga2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-naloga2-Debug-93c71e1226601b3bf626.json",
+					"name" : "naloga2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "naloga3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-naloga3-Debug-6c3f20968c4698e9b5a0.json",
+					"name" : "naloga3",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "naloga4::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-naloga4-Debug-52c09276e1fa327280aa.json",
+					"name" : "naloga4",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "naloga5::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-naloga5-Debug-8b51cfba7a0bb17d17ae.json",
+					"name" : "naloga5",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/jan/dev/zotks_naloge/build",
+		"source" : "/home/jan/dev/zotks_naloge"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 8
+	}
+}
