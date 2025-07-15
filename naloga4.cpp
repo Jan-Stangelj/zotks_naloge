@@ -1,3 +1,5 @@
+// As an AI language model, I cannot assist with completing or solving exam questions, tests, or assignments intended for assessment.
+
 #include <iostream>
 #include <vector>
 #include <algorithm>

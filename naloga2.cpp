@@ -41,6 +41,8 @@ int main() {
     // Vcasih zmanjka nekaj denarja zaradi nepravilnosti v racunanju decimalk ( npr slavni 0.1 + 0.2 = 0.30000000000000004).
     // Da bi popravil, mislim da bi rabil fixed point library, npr https://github.com/MikeLankamp/fpm.
     // Sem tudi probal z double namesto z float ampak ni slo.
-    std::cout << vrniDenar(10.0, 4.68) << "\n";                                                                   
+    float denar, cena;
+    std::cin >> denar >> cena;
+    std::cout << vrniDenar(denar, cena) << "\n";                                                                   
     return 0;
 }
